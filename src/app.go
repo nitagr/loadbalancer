@@ -1,4 +1,4 @@
-package LoadBalance
+package loadbalance
 
 import (
 	"encoding/json"
